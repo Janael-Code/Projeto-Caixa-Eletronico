@@ -20,5 +20,5 @@ Este é um sistema simples de caixa eletrônico desenvolvido em **Java** utiliza
 1. Clone este repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seuusuario/caixa-eletronico-java.git
+   git clone https://github.com/Janael-Code/Projeto-Caixa-Eletronico
 
