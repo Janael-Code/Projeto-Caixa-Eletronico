@@ -1,2 +1,24 @@
-# Projeto-Caixa-Eletronico
-Este projeto implementa um sistema de caixa eletrônico utilizando Programação Orientada a Objetos (POO) em Java. O sistema permite ao usuário realizar operações como depositar, sacar e consultar o saldo de uma conta bancária. Cada operação é tratada com um fluxo interativo, onde o usuário pode escolher qual ação deseja realizar.
+
+# Caixa Eletrônico em Java
+
+Este é um sistema simples de caixa eletrônico desenvolvido em **Java** utilizando os conceitos de **Programação Orientada a Objetos (POO)**. Ele permite que o usuário faça operações bancárias, como depósitos, saques e consultas de saldo, de maneira interativa e com controle de erros.
+
+## Funcionalidades
+
+- **Depositar**: Permite que o usuário deposite um valor na sua conta.
+- **Sacar**: Permite que o usuário saque um valor da sua conta, com verificação de saldo suficiente.
+- **Consultar Saldo**: Exibe o saldo atual da conta do usuário.
+- **Tratamento de Erros**: Verificação de erros como tentativa de saque acima do saldo disponível.
+
+## Tecnologias Utilizadas
+
+- **Java 8+**
+- **Programação Orientada a Objetos (POO)**
+
+## Como Rodar o Projeto
+
+1. Clone este repositório para sua máquina local:
+
+   ```bash
+   git clone https://github.com/seuusuario/caixa-eletronico-java.git
+
